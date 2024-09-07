@@ -1,3 +1,9 @@
+.black,
+.yellow {
+    font-size: 28px;
+    font-style: Helvetica, "Times new roman", sans-serif;
+}
+
 .black {
     background-color: black; 
     color: white;
@@ -5,9 +11,4 @@
 
 .yellow {
     background-color: yellow;
-}
-
-.both {
-    font-size: 28px;
-    font-style: Helvetica, "Times new roman", sans-serif;
 }
